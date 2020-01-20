@@ -5,9 +5,7 @@ if (strlen($_SESSION['id']==0)) {
   } else{
     
    
-    } 
-
-    
+    }    
 ?>
 <!DOCTYPE html>
 <html>
@@ -67,7 +65,7 @@ body {
 }
 
 .containerpayment {
-  background-color: #f2f2f2;
+  background-color: #fffff;
   padding: 5px 20px 15px 20px;
   border: 1px solid lightgrey;
   border-radius: 3px;
